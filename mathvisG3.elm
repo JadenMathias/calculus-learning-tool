@@ -1,4 +1,8 @@
 -- THIS CODE ONLY RUNS ON MACOUTREACH GAME SLOT--
+-- FOR THOSE VIEWING THIS: You will need the elm reactor to run the code below --
+
+-- Derivative learning tool --
+
 import Html exposing(Html)
 import Html.Attributes exposing(src)
 
